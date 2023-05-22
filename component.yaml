@@ -1,7 +1,7 @@
 platform: Common
 buildPlatform:
-displayName: Azure Board
-description: "Add comment to Azure Board Issue and optionally change the status."
+displayName: Azure Boards
+description: "Add comment to Azure Boards Issue and optionally change the status."
 inputs:
 - key: "AC_AZUREBOARD_INSTANCE"
   defaultValue: "https://dev.azure.com"

@@ -1,6 +1,6 @@
-# Appcircle _Azure Board_ component
+# Appcircle _Azure Boards_ component
 
-Add comment to Azure Board Issue and optionally change the status.
+Add comment to Azure Boards Issue and optionally change the status.
 
 ## Required Inputs
 
